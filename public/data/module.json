@@ -1,0 +1,41 @@
+{
+  "id": "mod-flutter-basic",
+  "slug": "module-flutter-basic",
+  "title": "Flutter跨端应用开发",
+  "subtitle": "面向跨端应用开发者",
+  "description": "面向跨端应用开发学习者的DartFlutter Widget布局状态管理路由表单网络请求本地存储动画主题适配性能优化与项目实战训练。",
+  "version": "2.0.0",
+  "license": "MIT",
+  "authors": [
+    "OpenSkill Community"
+  ],
+  "tags": [
+    "Flutter",
+    "Dart",
+    "跨端开发",
+    "移动开发",
+    "Widget",
+    "状态管理",
+    "路由",
+    "项目实战"
+  ],
+  "estimatedHours": 170,
+  "difficulty": "intermediate",
+  "updatedAt": "2026-07-03T00:00:00.000Z",
+  "coverEmoji": "🌍",
+  "repoUrl": "https://github.com/openskill-galaxy/module-flutter-basic",
+  "portalUrl": "https://openskill-galaxy.github.io/",
+  "status": "stable",
+  "stats": {
+    "courses": 14,
+    "lessons": 182,
+    "knowledgePoints": 735,
+    "questions": 3700,
+    "cases": 260,
+    "exams": 100,
+    "routes": 35,
+    "glossary": 360,
+    "faqs": 210,
+    "tags": 119
+  }
+}
