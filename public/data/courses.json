@@ -34,7 +34,23 @@
       "理解Widget",
       "会状态管理"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "lessons": [
+      "fl-lesson-001",
+      "fl-lesson-002",
+      "fl-lesson-003",
+      "fl-lesson-004",
+      "fl-lesson-005",
+      "fl-lesson-006",
+      "fl-lesson-007",
+      "fl-lesson-008",
+      "fl-lesson-009",
+      "fl-lesson-010",
+      "fl-lesson-011",
+      "fl-lesson-012",
+      "fl-lesson-013"
+    ],
+    "summary": "Flutter概述、跨端优势、学习路线。"
   },
   {
     "id": "fl-course-02",
@@ -71,7 +87,23 @@
       "理解Widget",
       "会状态管理"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "lessons": [
+      "fl-lesson-014",
+      "fl-lesson-015",
+      "fl-lesson-016",
+      "fl-lesson-017",
+      "fl-lesson-018",
+      "fl-lesson-019",
+      "fl-lesson-020",
+      "fl-lesson-021",
+      "fl-lesson-022",
+      "fl-lesson-023",
+      "fl-lesson-024",
+      "fl-lesson-025",
+      "fl-lesson-026"
+    ],
+    "summary": "变量、类、函数、异步、null safety。"
   },
   {
     "id": "fl-course-03",
@@ -108,7 +140,23 @@
       "理解Widget",
       "会状态管理"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "lessons": [
+      "fl-lesson-027",
+      "fl-lesson-028",
+      "fl-lesson-029",
+      "fl-lesson-030",
+      "fl-lesson-031",
+      "fl-lesson-032",
+      "fl-lesson-033",
+      "fl-lesson-034",
+      "fl-lesson-035",
+      "fl-lesson-036",
+      "fl-lesson-037",
+      "fl-lesson-038",
+      "fl-lesson-039"
+    ],
+    "summary": "SDK配置、项目结构、pubspec、热重载。"
   },
   {
     "id": "fl-course-04",
@@ -145,7 +193,23 @@
       "理解Widget",
       "会状态管理"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "lessons": [
+      "fl-lesson-040",
+      "fl-lesson-041",
+      "fl-lesson-042",
+      "fl-lesson-043",
+      "fl-lesson-044",
+      "fl-lesson-045",
+      "fl-lesson-046",
+      "fl-lesson-047",
+      "fl-lesson-048",
+      "fl-lesson-049",
+      "fl-lesson-050",
+      "fl-lesson-051",
+      "fl-lesson-052"
+    ],
+    "summary": "Widget树、Stateless/StatefulWidget、BuildContext。"
   },
   {
     "id": "fl-course-05",
@@ -182,7 +246,23 @@
       "理解Widget",
       "会状态管理"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "lessons": [
+      "fl-lesson-053",
+      "fl-lesson-054",
+      "fl-lesson-055",
+      "fl-lesson-056",
+      "fl-lesson-057",
+      "fl-lesson-058",
+      "fl-lesson-059",
+      "fl-lesson-060",
+      "fl-lesson-061",
+      "fl-lesson-062",
+      "fl-lesson-063",
+      "fl-lesson-064",
+      "fl-lesson-065"
+    ],
+    "summary": "Text、Image、Icon、Button、Container、Padding。"
   },
   {
     "id": "fl-course-06",
@@ -219,7 +299,23 @@
       "理解Widget",
       "会状态管理"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "lessons": [
+      "fl-lesson-066",
+      "fl-lesson-067",
+      "fl-lesson-068",
+      "fl-lesson-069",
+      "fl-lesson-070",
+      "fl-lesson-071",
+      "fl-lesson-072",
+      "fl-lesson-073",
+      "fl-lesson-074",
+      "fl-lesson-075",
+      "fl-lesson-076",
+      "fl-lesson-077",
+      "fl-lesson-078"
+    ],
+    "summary": "Row、Column、Stack、Expanded、Flexible、限幅。"
   },
   {
     "id": "fl-course-07",
@@ -256,7 +352,23 @@
       "理解Widget",
       "会状态管理"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "lessons": [
+      "fl-lesson-079",
+      "fl-lesson-080",
+      "fl-lesson-081",
+      "fl-lesson-082",
+      "fl-lesson-083",
+      "fl-lesson-084",
+      "fl-lesson-085",
+      "fl-lesson-086",
+      "fl-lesson-087",
+      "fl-lesson-088",
+      "fl-lesson-089",
+      "fl-lesson-090",
+      "fl-lesson-091"
+    ],
+    "summary": "setState、状态提升、Provider入门。"
   },
   {
     "id": "fl-course-08",
@@ -293,7 +405,23 @@
       "理解Widget",
       "会状态管理"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "lessons": [
+      "fl-lesson-092",
+      "fl-lesson-093",
+      "fl-lesson-094",
+      "fl-lesson-095",
+      "fl-lesson-096",
+      "fl-lesson-097",
+      "fl-lesson-098",
+      "fl-lesson-099",
+      "fl-lesson-100",
+      "fl-lesson-101",
+      "fl-lesson-102",
+      "fl-lesson-103",
+      "fl-lesson-104"
+    ],
+    "summary": "Navigator、命名路由、路由传参、onGenerateRoute。"
   },
   {
     "id": "fl-course-09",
@@ -330,7 +458,23 @@
       "理解Widget",
       "会状态管理"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "lessons": [
+      "fl-lesson-105",
+      "fl-lesson-106",
+      "fl-lesson-107",
+      "fl-lesson-108",
+      "fl-lesson-109",
+      "fl-lesson-110",
+      "fl-lesson-111",
+      "fl-lesson-112",
+      "fl-lesson-113",
+      "fl-lesson-114",
+      "fl-lesson-115",
+      "fl-lesson-116",
+      "fl-lesson-117"
+    ],
+    "summary": "TextField、Form、Validator、键盘处理。"
   },
   {
     "id": "fl-course-10",
@@ -367,7 +511,23 @@
       "理解Widget",
       "会状态管理"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "lessons": [
+      "fl-lesson-118",
+      "fl-lesson-119",
+      "fl-lesson-120",
+      "fl-lesson-121",
+      "fl-lesson-122",
+      "fl-lesson-123",
+      "fl-lesson-124",
+      "fl-lesson-125",
+      "fl-lesson-126",
+      "fl-lesson-127",
+      "fl-lesson-128",
+      "fl-lesson-129",
+      "fl-lesson-130"
+    ],
+    "summary": "HTTP、Dio、Future、async/await、JSON序列化。"
   },
   {
     "id": "fl-course-11",
@@ -404,7 +564,23 @@
       "理解Widget",
       "会状态管理"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "lessons": [
+      "fl-lesson-131",
+      "fl-lesson-132",
+      "fl-lesson-133",
+      "fl-lesson-134",
+      "fl-lesson-135",
+      "fl-lesson-136",
+      "fl-lesson-137",
+      "fl-lesson-138",
+      "fl-lesson-139",
+      "fl-lesson-140",
+      "fl-lesson-141",
+      "fl-lesson-142",
+      "fl-lesson-143"
+    ],
+    "summary": "SharedPreferences、本地文件、数据库入门。"
   },
   {
     "id": "fl-course-12",
@@ -441,7 +617,23 @@
       "理解Widget",
       "会状态管理"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "lessons": [
+      "fl-lesson-144",
+      "fl-lesson-145",
+      "fl-lesson-146",
+      "fl-lesson-147",
+      "fl-lesson-148",
+      "fl-lesson-149",
+      "fl-lesson-150",
+      "fl-lesson-151",
+      "fl-lesson-152",
+      "fl-lesson-153",
+      "fl-lesson-154",
+      "fl-lesson-155",
+      "fl-lesson-156"
+    ],
+    "summary": "Provider原理、ChangeNotifier、Consumer、Riverpod基础。"
   },
   {
     "id": "fl-course-13",
@@ -478,7 +670,23 @@
       "理解Widget",
       "会状态管理"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "lessons": [
+      "fl-lesson-157",
+      "fl-lesson-158",
+      "fl-lesson-159",
+      "fl-lesson-160",
+      "fl-lesson-161",
+      "fl-lesson-162",
+      "fl-lesson-163",
+      "fl-lesson-164",
+      "fl-lesson-165",
+      "fl-lesson-166",
+      "fl-lesson-167",
+      "fl-lesson-168",
+      "fl-lesson-169"
+    ],
+    "summary": "AnimationController、Hero、ThemeData、暗色模式、响应式。"
   },
   {
     "id": "fl-course-14",
@@ -515,6 +723,22 @@
       "理解Widget",
       "会状态管理"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "lessons": [
+      "fl-lesson-170",
+      "fl-lesson-171",
+      "fl-lesson-172",
+      "fl-lesson-173",
+      "fl-lesson-174",
+      "fl-lesson-175",
+      "fl-lesson-176",
+      "fl-lesson-177",
+      "fl-lesson-178",
+      "fl-lesson-179",
+      "fl-lesson-180",
+      "fl-lesson-181",
+      "fl-lesson-182"
+    ],
+    "summary": "项目整合、打包发布、面试题。"
   }
 ]
